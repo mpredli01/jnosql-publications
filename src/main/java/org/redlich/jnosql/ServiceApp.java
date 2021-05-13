@@ -45,11 +45,19 @@ public class ServiceApp {
             romanService.insert(remus);
              */
 
+            System.out.println("Finding by publication title...");
             System.out.println(publicationService.findByTitle("Stagnation with Java EE 8: Can the Java Community Make a Difference?").collect(Collectors.toList()));
+            System.out.println("----------\n");
+
+            System.out.println("Finding by publication authorId");
             System.out.println(publicationService.findByAuthorId(1).collect(Collectors.toList()));
+            System.out.println("----------\n");
 
+            System.out.println("Finding by author last name...");
             System.out.println(authorService.findBylastName("Redlich").collect(Collectors.toList()));
+            System.out.println("----------\n");
 
+            System.out.println("Finding by name...");
             System.out.println(romanService.findName("Remus").collect(Collectors.toList()));
             }
         }

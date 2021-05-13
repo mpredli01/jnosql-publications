@@ -1,0 +1,188 @@
+[INFO] Scanning for projects...
+[WARNING] The POM for org.eclipse.m2e:lifecycle-mapping:jar:1.0.0 is missing, no dependency information available
+[WARNING] Failed to retrieve plugin descriptor for org.eclipse.m2e:lifecycle-mapping:1.0.0: Plugin org.eclipse.m2e:lifecycle-mapping:1.0.0 or one of its dependencies could not be resolved: org.eclipse.m2e:lifecycle-mapping:jar:1.0.0 was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+[INFO] 
+[INFO] -------------------------< org.redlich:jnosql >-------------------------
+[INFO] Building Jakarta NoSQL MongoDB Example 0.0.1
+[INFO] --------------------------------[ jar ]---------------------------------
+[WARNING] The POM for org.eclipse.m2e:lifecycle-mapping:jar:1.0.0 is missing, no dependency information available
+[WARNING] Failed to retrieve plugin descriptor for org.eclipse.m2e:lifecycle-mapping:1.0.0: Plugin org.eclipse.m2e:lifecycle-mapping:1.0.0 or one of its dependencies could not be resolved: org.eclipse.m2e:lifecycle-mapping:jar:1.0.0 was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+[INFO] 
+[INFO] >>> exec-maven-plugin:1.2.1:java (default-cli) > validate @ jnosql >>>
+[INFO] 
+[INFO] <<< exec-maven-plugin:1.2.1:java (default-cli) < validate @ jnosql <<<
+[INFO] 
+[INFO] 
+[INFO] --- exec-maven-plugin:1.2.1:java (default-cli) @ jnosql ---
+Finding by publication title...
+[Publication { id='22', title='Stagnation with Java EE 8: Can the Java Community Make a Difference?', authorId='1', publish_date='2016-07-09 00:00:00', url='https://www.infoq.com/news/2016/07/Java-EE-8-Stagnating' }
+]
+----------
+
+Finding by publication authorId
+[Publication { id='1', title='James: The Java Apache Mail Enterprise Server', authorId='1', publish_date='2005-09-30 00:00:00', url='http://javaboutique.internet.com/reviews/james/' }
+, Publication { id='3', title='Avoid Excessive Subclassing with the Decorator Design Pattern', authorId='1', publish_date='2006-01-27 00:00:00', url='http://javaboutique.internet.com/tutorials/decorator/' }
+, Publication { id='5', title='Keeping Your Java Objects Informed with the Observer Design Pattern', authorId='1', publish_date='2006-06-19 00:00:00', url='http://javaboutique.internet.com/tutorials/observer/' }
+, Publication { id='7', title='Manufacturing Java Objects with the Factory Method Design Pattern', authorId='1', publish_date='2006-08-14 00:00:00', url='http://javaboutique.internet.com/tutorials/factory/' }
+, Publication { id='9', title='Resistance is Futile - How to Make Your Java Objects Conform with the Adapter Pattern', authorId='1', publish_date='2006-09-25 00:00:00', url='http://javaboutique.internet.com/tutorials/adapter/' }
+, Publication { id='11', title='Get to Know Your Java Object's State of Mind with the State Design Pattern', authorId='1', publish_date='2006-12-14 00:00:00', url='http://javaboutique.internet.com/tutorials/state/' }
+, Publication { id='13', title='Encapsulating Algorithms with the Template Method Design Pattern', authorId='1', publish_date='2007-02-09 00:00:00', url='http://javaboutique.internet.com/tutorials/template/' }
+, Publication { id='15', title='Controlling Global Access to Your Java Objects with the Singleton Design Pattern', authorId='1', publish_date='2007-11-20 00:00:00', url='http://javaboutique.internet.com/tutorials/single/' }
+, Publication { id='17', title='Access Your Stored Java Objects with the Iterator Design Pattern', authorId='1', publish_date='2008-06-30 00:00:00', url='http://javaboutique.internet.com/tutorials/iterator/' }
+, Publication { id='21', title='Test Well and Prosper: The Great Java Unit-Testing Frameworks Debate', authorId='1', publish_date='2016-06-20 00:00:00', url='https://www.infoq.com/news/2016/06/Junit-vs-Spock' }
+, Publication { id='22', title='Stagnation with Java EE 8: Can the Java Community Make a Difference?', authorId='1', publish_date='2016-07-09 00:00:00', url='https://www.infoq.com/news/2016/07/Java-EE-8-Stagnating' }
+, Publication { id='23', title='After a Quiet 2015 Martin Odersky Outlined Significant Plans for Scala at Scala Days New York', authorId='1', publish_date='2016-08-02 00:00:00', url='https://www.infoq.com/news/2016/08/scala-development-is-heating-up' }
+, Publication { id='24', title='The New Scala Center Focuses on Education and the Scala Community', authorId='1', publish_date='2016-08-16 00:00:00', url='https://www.infoq.com/news/2016/08/the-new-scala-center' }
+, Publication { id='25', title='Dropwizard Java REST Framework Version 1.0.0 Features Updated Library Support, Scala, and Java 8', authorId='1', publish_date='2016-08-30 00:00:00', url='https://www.infoq.com/news/2016/08/dropwizard-milestone-release' }
+, Publication { id='26', title='Spring Releases Versions 2.3.1 and 2.4.0 Web Services', authorId='1', publish_date='2016-09-21 00:00:00', url='https://www.infoq.com/news/2016/09/spring-releases-web-services' }
+, Publication { id='27', title='Gradle Releases Version 3.0 of Their Polyglot Build Tool', authorId='1', publish_date='2016-09-24 00:00:00', url='https://www.infoq.com/news/2016/09/gradle-releases-version-3' }
+, Publication { id='28', title='Red Hat Releases WildFly Application Server Version 10.1', authorId='1', publish_date='2016-10-04 00:00:00', url='https://www.infoq.com/news/2016/10/red-hat-releases-wildfly-10-1' }
+, Publication { id='30', title='Proposed Consolidation of JDK 10 OpenJDK Mercurial Repositories', authorId='1', publish_date='2016-10-21 00:00:00', url='https://www.infoq.com/news/2016/10/proposed-consol-of-jdk-repos' }
+, Publication { id='32', title='The Road to Javaslang 3.0', authorId='1', publish_date='2016-11-12 00:00:00', url='https://www.infoq.com/news/2016/11/the-road-to-javaslang-3' }
+, Publication { id='34', title='Speedment Releases Stream ORM Version 3.0.1', authorId='1', publish_date='2016-12-16 00:00:00', url='https://www.infoq.com/news/2016/12/speedment-releases-version-3' }
+, Publication { id='35', title='Introducing Gradle Build Scans', authorId='1', publish_date='2016-12-23 00:00:00', url='https://www.infoq.com/news/2016/12/gradle-build-scans' }
+, Publication { id='36', title='New Vaadin Spring Release Introduces Enhanced View Management', authorId='1', publish_date='2016-12-30 00:00:00', url='https://www.infoq.com/news/2016/12/vaadin-releases-vaadin-spring' }
+, Publication { id='37', title='Pivotal Releases First Milestone of Next-Generation Spring Data Featuring Reactive Database Access', authorId='1', publish_date='2017-01-19 00:00:00', url='https://www.infoq.com/news/2017/01/next-gen-spring-data-released' }
+, Publication { id='38', title='Netflix Introduces Hollow, a Java Library for Processing In-Memory Datasets', authorId='1', publish_date='2017-01-31 00:00:00', url='https://www.infoq.com/news/2017/01/netflix-introduces-hollow' }
+, Publication { id='39', title='Data Geekery Releases Version 3.9.0 of jOOQ, a Java ORM Tool for Building Type Safe Queries', authorId='1', publish_date='2017-02-14 00:00:00', url='https://www.infoq.com/news/2017/02/data-geekery-releases-jooq-3-9' }
+, Publication { id='40', title='Lightbend Speaks to InfoQ on Their Acquisition of OpsClarity', authorId='1', publish_date='2017-02-24 00:00:00', url='https://www.infoq.com/news/2017/02/lightbend-acquires-opsclarity' }
+, Publication { id='41', title='Public Review of JSON-P Specification 1.1 is Now Open', authorId='1', publish_date='2017-03-08 00:00:00', url='https://www.infoq.com/news/2017/03/json-processing-public-review' }
+, Publication { id='42', title='Open Source Linkerd Project Celebrates First Anniversary in Quest to Become TCP/IP of Microservices', authorId='1', publish_date='2017-03-13 00:00:00', url='https://www.infoq.com/news/2017/03/linkerd-celebrates-one-year' }
+, Publication { id='44', title='Light at the End of the Long Tunnel for Java EE 8', authorId='1', publish_date='2017-04-14 00:00:00', url='https://www.infoq.com/news/2017/04/long-road-for-java-ee-8' }
+, Publication { id='45', title='Emerging Technologies for the Enterprise Conference 2017: Day One Recap', authorId='1', publish_date='2017-04-24 00:00:00', url='https://www.infoq.com/news/2017/04/day-one-philly-ete-2017' }
+, Publication { id='46', title='Emerging Technologies for the Enterprise Conference 2017: Day Two Recap', authorId='1', publish_date='2017-04-30 00:00:00', url='https://www.infoq.com/news/2017/04/day-two-philly-ete-2017' }
+, Publication { id='47', title='Buoyant Releases Version 1.0 of Their Service Mesh, Linkerd', authorId='1', publish_date='2017-05-02 00:00:00', url='https://www.infoq.com/news/2017/05/buoyant-release-ver-1-of-linkerd' }
+, Publication { id='49', title='Kiki Carter, Enterprise Architect at Lightbend, Speaks to InfoQ at ETE', authorId='1', publish_date='2017-06-07 00:00:00', url='https://www.infoq.com/news/2017/06/kiki-carter-speaks-to-infoq' }
+, Publication { id='50', title='Jake Wharton, Android Engineer at Square, Speaks to InfoQ at ETE', authorId='1', publish_date='2017-06-09 00:00:00', url='https://www.infoq.com/news/2017/06/jake-wharton-speaks-to-infoq' }
+, Publication { id='51', title='Oracle Defends the Java Module System', authorId='1', publish_date='2017-06-22 00:00:00', url='https://www.infoq.com/news/2017/06/oracle-defends-jpms' }
+, Publication { id='52', title='IBM and Lightbend Announce Initiative to Build New Platform for Cognitive Development', authorId='1', publish_date='2017-06-28 00:00:00', url='https://www.infoq.com/news/2017/06/ibm-and-lightbend-collaboration' }
+, Publication { id='53', title='Java Module Platform System (JSR 376) Passes the Public Review Reconsideration Ballot', authorId='1', publish_date='2017-07-04 00:00:00', url='https://www.infoq.com/news/2017/07/jsr-376-approved' }
+, Publication { id='54', title='Eric Han, VP at Portworx, Speaks to InfoQ on the State of the Hyperconverged Container Market', authorId='1', publish_date='2017-07-07 00:00:00', url='https://www.infoq.com/news/2017/07/state-of-hyper-container-market' }
+, Publication { id='55', title='JetBrains Elected to the JCP Executive Committee', authorId='1', publish_date='2017-07-18 00:00:00', url='https://www.infoq.com/news/2017/07/jetbrains-elected-to-jcp' }
+, Publication { id='56', title='Apache OpenWebBeans Releases Meecrowave Server Version 1.0 for Java EE-Based Microservices', authorId='1', publish_date='2017-08-30 00:00:00', url='https://www.infoq.com/news/2017/08/apache-releases-meecrowave-1-0' }
+, Publication { id='57', title='Spring Boot 2.0 Will Feature Improved Actuator Endpoints', authorId='1', publish_date='2017-08-31 00:00:00', url='https://www.infoq.com/news/2017/08/spring-boot-2-actuator-endpoints' }
+, Publication { id='59.0', title='Southbank Software Introduces dbKoda, an Open Source Database Development Tool for MongoDB', authorId='1', publish_date='2017-09-13 00:00:00', url='https://www.infoq.com/news/2017/09/introducing-dbkoda-for-mongodb' }
+, Publication { id='60', title='Brian Goetz Speaks to InfoQ on Pattern Matching for Java', authorId='1', publish_date='2017-09-27 00:00:00', url='https://www.infoq.com/news/2017/09/pattern-matching-for-java' }
+, Publication { id='61', title='IBM Introduces Open Liberty, an Open Source Runtime for Java Microservices', authorId='1', publish_date='2017-10-11 00:00:00', url='https://www.infoq.com/news/2017/10/ibm-introduces-open-liberty' }
+, Publication { id='62', title='Eclipse Foundation Prepares to Open Source Java EE as EE4J', authorId='1', publish_date='2017-10-25 00:00:00', url='https://www.infoq.com/news/2017/10/towards-java-EE-at-eclipse' }
+, Publication { id='63', title='What's New in MicroProfile 1.2', authorId='1', publish_date='2017-11-30 00:00:00', url='https://www.infoq.com/news/2017/11/whats-new-in-microprofile-1-2' }
+, Publication { id='64', title='The First Nine Projects Proposed for EE4J', authorId='1', publish_date='2017-12-13 00:00:00', url='https://www.infoq.com/news/2017/12/first-nine-projects-for-ee4j' }
+, Publication { id='65', title='IntelliJ IDEA 2017.3: Enhanced Support for Java EE 8, Spring Boot, and JUnit', authorId='1', publish_date='2017-12-20 00:00:00', url='https://www.infoq.com/news/2017/12/intellij-idea-2017.3' }
+, Publication { id='66', title='Hazelcast Joins the Eclipse Foundation', authorId='1', publish_date='2018-01-09 00:00:00', url='https://www.infoq.com/news/2018/01/hazelcast-joins-eclipse' }
+, Publication { id='67', title='Public Review of Java MVC 1.0 Specification is Now Open', authorId='1', publish_date='2018-01-29 00:00:00', url='https://www.infoq.com/news/2018/01/mvc-1.0-public-review' }
+, Publication { id='68', title='From Java EE to Jakarta EE: the Java EE Guardians Rebranding Debate with Oracle', authorId='1', publish_date='2018-02-18 00:00:00', url='https://www.infoq.com/news/2018/02/from-javaee-to-jakartaee' }
+, Publication { id='69', title='Brian Goetz Speaks to InfoQ on Data Classes for Java', authorId='1', publish_date='2018-02-21 00:00:00', url='https://www.infoq.com/news/2018/02/data-classes-for-java' }
+, Publication { id='70', title='A First Look at Java 10 Release Candidate 1', authorId='1', publish_date='2018-02-28 00:00:00', url='https://www.infoq.com/news/2018/02/first-look-jdk10-rc1' }
+, Publication { id='71', title='JetBrains Releases Kotlin 1.2.30', authorId='1', publish_date='2018-03-12 00:00:00', url='https://www.infoq.com/news/2018/03/jetbrains-releases-kotlin-1.2.30' }
+, Publication { id='72', title='Payara Foundation Releases Payara Server 5 and Payara Micro 5', authorId='1', publish_date='2018-03-30 00:00:00', url='https://www.infoq.com/news/2018/03/payara-releases-version-5' }
+, Publication { id='73', title='Java EE Guardians Moving Forward with Jakarta EE', authorId='1', publish_date='2018-04-11 00:00:00', url='https://www.infoq.com/news/2018/04/guardians-moving-with-jakarta-ee' }
+, Publication { id='74', title='Proposed Schedule for JDK 11', authorId='1', publish_date='2018-04-19 00:00:00', url='https://www.infoq.com/news/2018/04/proposed-schedule-for-jdk-11' }
+, Publication { id='75', title='Cloud Native Java Has A New Home: Jakarta EE', authorId='1', publish_date='2018-04-25 00:00:00', url='https://www.infoq.com/news/2018/04/cloud-native-java-jakarta-ee' }
+, Publication { id='76', title='Latest Roundup of EE4J Activities for Jakarta EE', authorId='1', publish_date='2018-05-15 00:00:00', url='https://www.infoq.com/news/2018/05/latest-ee4j-activities' }
+, Publication { id='77', title='Gradle Releases Version 4.7 with Support for Java 10', authorId='1', publish_date='2018-05-31 00:00:00', url='https://www.infoq.com/news/2018/05/gradle-releases-version-4.7' }
+, Publication { id='78', title='The MicroProfile Community Influence on Jakarta EE', authorId='1', publish_date='2018-06-22 00:00:00', url='https://www.infoq.com/news/2018/06/microprofile-influence-jakartaee' }
+, Publication { id='79', title='Pivotal Releases Spring Cloud Data Flow 1.5', authorId='1', publish_date='2018-06-30 00:00:00', url='https://www.infoq.com/news/2018/06/pivotal-releases-data-flow-1.5' }
+, Publication { id='80', title='Apache Releases Groovy 2.5 and Preview of Groovy 3.0', authorId='1', publish_date='2018-07-12 00:00:00', url='https://www.infoq.com/news/2018/07/apache-releases-groovy-2.5' }
+, Publication { id='81', title='MongoDB Database Tool, dbKoda, Offers Enhanced User Experience and Performance Lab in Version 1.0', authorId='1', publish_date='2018-07-16 00:00:00', url='https://www.infoq.com/news/2018/07/southbank-releases-dbkoda-1.0' }
+, Publication { id='82', title='QCon New York 2018: Better Developer Experience at Netflix: Polyglot and Containers', authorId='1', publish_date='2018-08-28 00:00:00', url='https://www.infoq.com/news/2018/08/better-devex-at-netflix' }
+, Publication { id='83', title='Eclipse Releases Versions 1.4 and 2.0 of MicroProfile', authorId='1', publish_date='2018-08-30 00:00:00', url='https://www.infoq.com/news/2018/08/microprofile-1.4-and-2.0' }
+, Publication { id='84', title='Pivotal Releases Spring Cloud Data Version 1.6 Featuring a New App Hosting Tool', authorId='1', publish_date='2018-09-14 00:00:00', url='https://www.infoq.com/news/2018/09/pivotal-releases-data-flow-1.6' }
+, Publication { id='85', title='Thorntail 2.2.0 Features Automated Migration from WildFly Swarm', authorId='1', publish_date='2018-09-18 00:00:00', url='https://www.infoq.com/news/2018/09/red-hat-releases-thorntail-2.2.0' }
+, Publication { id='86', title='Payara Foundation Releases Payara Server and Payara Micro 5.183 Featuring MicroProfile 2.0 Support', authorId='1', publish_date='2018-09-28 00:00:00', url='https://www.infoq.com/news/2018/09/payara-releases-version-5.183' }
+, Publication { id='87', title='A New Era for GlassFish: Source Code Migrated, and the Java EE TCK Released as Open Source', authorId='1', publish_date='2018-09-30 00:00:00', url='https://www.infoq.com/news/2018/09/a-new-era-for-glassfish' }
+, Publication { id='88', title='Oracle Introduces Helidon - A Lightweight Java Microservices Framework', authorId='1', publish_date='2018-10-10 00:00:00', url='https://www.infoq.com/news/2018/10/oracle-introduces-helidon' }
+, Publication { id='89', title='The Road to Micronaut 1.0: A JVM-Based Full-Stack Framework', authorId='1', publish_date='2018-10-19 00:00:00', url='https://www.infoq.com/news/2018/10/the-road-to-micronaut-1.0' }
+, Publication { id='90', title='Apache Releases TomEE 7.1 with Support for Java 8 and MicroProfile 1.2', authorId='1', publish_date='2018-11-13 00:00:00', url='https://www.infoq.com/news/2018/11/apache-releases-tomee-7.1' }
+, Publication { id='91', title='IBM Releases Open Liberty 18.0.0.3 with Support for MicroProfile 2.0', authorId='1', publish_date='2018-11-20 00:00:00', url='https://www.infoq.com/news/2018/11/ibm-releases-open-liberty-18.3' }
+, Publication { id='19', title='Twitter Releases Pants 1.0 Polyglot Build Tool', authorId='1', publish_date='2016-05-28 00:00:00', url='https://www.infoq.com/news/2016/05/twitter-release-pants-build-tool' }
+, Publication { id='20', title='Spring Releases Version 1.1 Statemachine Framework', authorId='1', publish_date='2016-06-05 00:00:00', url='https://www.infoq.com/news/2016/06/Spring-Releases-Statemachine' }
+, Publication { id='29', title='Pivotal Releases Versions 1.3.8 and 1.4.1 of Spring Boot', authorId='1', publish_date='2016-10-10 00:00:00', url='https://www.infoq.com/news/2016/10/spring-releases-boot' }
+, Publication { id='31', title='Enterprise Development Trends 2016: A Survey of JVM Developers by Lightbend', authorId='1', publish_date='2016-11-08 00:00:00', url='https://www.infoq.com/news/2016/11/lightbend-enterprise-survey-2016' }
+, Publication { id='33', title='Lawyer.com: Early Adopter of HTTP/2, Speaks to InfoQ', authorId='1', publish_date='2016-11-30 00:00:00', url='https://www.infoq.com/news/2016/11/lawyer-com-adopts-http-2' }
+, Publication { id='43', title='Vaadin Releases Version 8 of Their Polyglot Framework', authorId='1', publish_date='2017-03-26 00:00:00', url='https://www.infoq.com/news/2017/03/vaadin-releases-version-8' }
+, Publication { id='48', title='Datacenter Operators: Bumpy Ride Running Containers on Infrastructure Built for VMs', authorId='1', publish_date='2017-05-23 00:00:00', url='https://www.infoq.com/news/2017/05/diamanti-named-cool-vendor' }
+, Publication { id='58', title='QCon New York 2017: Migrating Speedment to Java 9', authorId='1', publish_date='2017-09-02 00:00:00', url='https://www.infoq.com/news/2017/09/migrating-speedment-to-java-9' }
+, Publication { id='92', title='ScyllaDB Announces Major Release of Its NoSQL Database and Support for Concurrent OLTP and OLAP', authorId='1', publish_date='2018-12-17 00:00:00', url='https://www.infoq.com/news/2018/12/scylladb-releases-version-3.0' }
+, Publication { id='93', title='Book Review: Optimizing Java', authorId='1', publish_date='2018-12-31 00:00:00', url='https://www.infoq.com/articles/book-review-optimizing-java' }
+, Publication { id='94', title='Micronaut for Spring Allows Spring Boot Apps to Run as Micronaut Apps', authorId='1', publish_date='2018-12-31 00:00:00', url='https://www.infoq.com/news/2018/12/micronaut-for-spring-graalvm' }
+, Publication { id='95', title='IBM Releases Open Liberty 18.0.0.4 with Support for MicroProfile 2.1 and Reactive Extensions', authorId='1', publish_date='2019-01-21 00:00:00', url='https://www.infoq.com/news/2019/01/ibm-releases-open-liberty-18.4' }
+, Publication { id='96', title='Apache Releases NetBeans 10.0 Featuring Enhanced Support for JDK 11', authorId='1', publish_date='2019-02-12 00:00:00', url='https://www.infoq.com/news/2019/02/apache-releases-netbeans-10.0' }
+, Publication { id='97', title='GoDaddy Announces Sponsorship of AdoptOpenJDK to Further its Commitment to a Free and Open Internet', authorId='1', publish_date='2019-02-15 00:00:00', url='https://www.infoq.com/news/2019/02/godaddy-sponsors-adoptopenjdk' }
+, Publication { id='98', title='Eclipse Releases GlassFish 5.1 Certified as Compatible with Java EE 8', authorId='1', publish_date='2019-02-19 00:00:00', url='https://www.infoq.com/news/2019/02/eclipse-releases-glassfish-5.1' }
+, Publication { id='99', title='Amazon Releases Corretto 8 GA: A Downstream Distribution of OpenJDK', authorId='1', publish_date='2019-03-04 00:00:00', url='https://www.infoq.com/news/2019/03/amazon-releases-corretto-8' }
+, Publication { id='100', title='The 2019 Payara Platform 5 Roadmap', authorId='1', publish_date='2019-03-15 00:00:00', url='https://www.infoq.com/news/2019/03/payara-5-roadmap-2019' }
+, Publication { id='101', title='2018 JCP Election Results Introduces BNY Mellon as a First-Time Member', authorId='1', publish_date='2019-03-18 00:00:00', url='https://www.infoq.com/news/2019/03/bnymellon-elected-to-jcp' }
+, Publication { id='102', title='Microsoft Survey to Study the JavaEE to Cloud Migration: A Call to the Java Community to Participate', authorId='1', publish_date='2019-03-19 00:00:00', url='https://www.infoq.com/news/2019/03/microsoft-survey-javaee-to-cloud' }
+, Publication { id='103', title='MicroProfile Releases Reactive Streams Operators 1.0', authorId='1', publish_date='2019-03-31 00:00:00', url='https://www.infoq.com/news/2019/03/microprofile-reactive-stream-1.0' }
+, Publication { id='104', title='JEP 230: A New Microbenchmark Suite for JDK 12', authorId='1', publish_date='2019-04-17 00:00:00', url='https://www.infoq.com/news/2019/04/jep-230-microbenchmark-suite' }
+, Publication { id='105', title='Micronaut 1.1 Features Enhanced Support for Building Cloud-Native Applications', authorId='1', publish_date='2019-05-14 00:00:00', url='https://www.infoq.com/news/2019/05/micronaut-1.1-cloud-native' }
+, Publication { id='106', title='GraalVM 19.0: The Anticipated GA Release', authorId='1', publish_date='2019-06-17 00:00:00', url='https://www.infoq.com/news/2019/06/oracle-releases-graalvm-19.0' }
+, Publication { id='107', title='Payara Tour of Japan 2019', authorId='1', publish_date='2019-06-26 00:00:00', url='https://www.infoq.com/news/2019/06/payara-tour-of-japan-2019' }
+, Publication { id='108', title='Helidon Supports GraalVM for Native Executable Applications', authorId='1', publish_date='2019-07-19 00:00:00', url='https://www.infoq.com/news/2019/07/helidon-supports-graalvm' }
+, Publication { id='109', title='Brian Goetz Speaks to InfoQ on Proposed Hyphenated Keywords in Java', authorId='1', publish_date='2019-07-31 00:00:00', url='https://www.infoq.com/news/2019/07/hyphenated-keywords-for-java' }
+, Publication { id='110', title='Heather VanCura, Director of the JCP, Speaks to InfoQ on the JCP 20th Anniversary', authorId='1', publish_date='2019-08-19 00:00:00', url='https://www.infoq.com/news/2019/08/jcp-20th-anniversary' }
+, Publication { id='111', title='The Inaugural JakartaOne Virtual Conference Goes Lives with the Release of Jakarta EE 8', authorId='1', publish_date='2019-08-20 00:00:00', url='https://www.infoq.com/news/2019/08/jakarta-one-conference-2019' }
+, Publication { id='112', title='Release of Open Liberty 19.0.0.9 Completes Support of MicroProfile Standalone Reactive Streams APIs', authorId='1', publish_date='2019-10-09 00:00:00', url='https://www.infoq.com/news/2019/10/open-liberty-19-0-0-9' }
+, Publication { id='113', title='JakartaOne 2019: Livestream 7am to 1pm Summary', authorId='1', publish_date='2019-11-27 00:00:00', url='https://www.infoq.com/news/2019/11/jakarta-one-0700-1300-recap/' }
+, Publication { id='114', title='Payara Server: the Latest Product Certified as Jakarta EE 8-Compatible', authorId='1', publish_date='2019-12-11 00:00:00', url='https://www.infoq.com/news/2019/12/payara-jakartaee-compatible/' }
+, Publication { id='115', title='Red Hat Releases WildFly 18 Featuring Support for Jakarta EE and MicroProfile', authorId='1', publish_date='2019-12-17 00:00:00', url='https://www.infoq.com/news/2019/12/red-hat-releases-wildfly-18/' }
+, Publication { id='116', title='Apple Open Sources ServiceTalk to the Java Community', authorId='1', publish_date='2019-12-31 00:00:00', url='https://www.infoq.com/news/2019/12/apple-opensources-servicetalk' }
+, Publication { id='117', title='Ballerina - An Open Source JVM Language and Platform for Cloud-Era Application Programmers', authorId='1', publish_date='2020-01-29 00:00:00', url='https://www.infoq.com/news/2020/01/wso2-releases-ballerina-1-1' }
+, Publication { id='118', title='The Java EE Guardians Rebrand as the Jakarta EE Ambassadors', authorId='1', publish_date='2020-01-30 00:00:00', url='https://www.infoq.com/news/2020/01/rebranding-java-ee-guardians/' }
+, Publication { id='119', title='The Jakarta EE 9 Delivery Plan', authorId='1', publish_date='2020-02-18 00:00:00', url='https://www.infoq.com/news/2020/02/jakarta-ee-9-delivery-plan/' }
+, Publication { id='120', title='OCI Releases Micronaut 1.3 Featuring Micronaut Data 1.0', authorId='1', publish_date='2020-03-18 00:00:00', url='https://www.infoq.com/news/2020/03/micronaut-data-released/' }
+, Publication { id='121', title='New Relic Introduces Real-Time Java Profiling', authorId='1', publish_date='2020-03-19 00:00:00', url='https://www.infoq.com/news/2020/03/new-relic-java-profiling/' }
+, Publication { id='122', title='What's New in MicroProfile 3.3', authorId='1', publish_date='2020-03-31 00:00:00', url='https://www.infoq.com/news/2020/03/whats-new-in-microprofile-3-3/' }
+, Publication { id='123', title='Significant New Features Planned for Helidon 2.0', authorId='1', publish_date='2020-04-23 00:00:00', url='https://www.infoq.com/news/2020/04/the-road-to-helidon-2/' }
+, Publication { id='124', title='The Long Road to Groovy 3.0 Featuring Their New and Improved Parser', authorId='1', publish_date='2020-05-18 00:00:00', url='https://www.infoq.com/news/2020/05/apache-releases-groovy-3/' }
+, Publication { id='125', title='Micronaut Servlet - a New Micronaut Project for Servlet API Developers', authorId='1', publish_date='2020-05-31 00:00:00', url='https://www.infoq.com/news/2020/05/micronaut-servlet-released/' }
+, Publication { id='126', title='Quarkus 1.5 Features New Extensions and fast-jar Packaging', authorId='1', publish_date='2020-06-22 00:00:00', url='https://www.infoq.com/news/2020/06/red-hat-releases-quarkus-1-5/' }
+, Publication { id='127', title='MicroProfile GraphQL 1.0 - a New API in the MicroProfile Family', authorId='1', publish_date='2020-06-30 00:00:00', url='https://www.infoq.com/news/2020/06/microprofile-graphql/' }
+]
+----------
+
+Finding by author last name...
+[Author { id='1.0', last_name='Redlich', first_name='Michael', home_email='mike@redlich.net' }
+]
+----------
+
+Finding by 
+[God { id='608bd2eb9085d06c467a7660', name='Remus' }
+, God { id='608beb6fd7857a3296969c30', name='Remus' }
+, God { id='608bec7273333a7008bb57c3', name='Remus' }
+, God { id='608bed3bee09b23637ff75ae', name='Remus' }
+, God { id='608bedecd3f7e60f90a946a6', name='Remus' }
+, God { id='608bee4621cab26f789d0011', name='Remus' }
+, God { id='608bee9c8d6f634e1d4e2c37', name='Remus' }
+, God { id='608bfa383fb5344c32d45753', name='Remus' }
+, God { id='608bfa655db0b5099d9961c6', name='Remus' }
+, God { id='608bfa6a228762599d35bd77', name='Remus' }
+, God { id='608bfa7f2f2d5008d71efee4', name='Remus' }
+, God { id='608bfb21a88bc2388235cf49', name='Remus' }
+, God { id='608bfb3df67a1430e1f5d4e9', name='Remus' }
+, God { id='608c5c3431e72d3c73a4d610', name='Remus' }
+, God { id='608c5c8d1f210510be056117', name='Remus' }
+, God { id='608c5d1b2d39d165606b5305', name='Remus' }
+, God { id='608c5d2bc480e9337e249607', name='Remus' }
+, God { id='608c5d67bf27053fd31703fd', name='Remus' }
+, God { id='608c808844327418db91a30d', name='Remus' }
+, God { id='608c809dc1b1211d331a5c65', name='Remus' }
+, God { id='608c80d42bfbd63f938bf428', name='Remus' }
+, God { id='608fee46da2fea45b6403323', name='Remus' }
+, God { id='608ff19b649df24b3a816cbe', name='Remus' }
+, God { id='6092ac9cdbf21a7cff8e57f1', name='Remus' }
+, God { id='6092ad5da8fc521c31e380d9', name='Remus' }
+, God { id='609d1d3e11e8dc6a8b6d4659', name='Remus' }
+, God { id='609d1da25b8c3e5b9fc1eeb3', name='Remus' }
+, God { id='609d1f066c302349b44ea502', name='Remus' }
+, God { id='609d91bdea3f0e5d80f981c3', name='Remus' }
+, God { id='609d9203a9ee9d5c6fe6a5db', name='Remus' }
+, God { id='609d95a8601ebf01e89059b6', name='Remus' }
+, God { id='609d960083f9e2065bbb6f7a', name='Remus' }
+]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.574 s
+[INFO] Finished at: 2021-05-13T17:12:24-04:00
+[INFO] ------------------------------------------------------------------------

@@ -47,21 +47,21 @@ public class ManagerProducer {
 
     @ApplicationScoped
     @Produces
-    @Database(provider = "publicationsService", value = DatabaseType.DOCUMENT)
+    @Database(provider = "publicationsDb", value = DatabaseType.DOCUMENT)
     public DocumentCollectionManager getPublications() {
         return publicationsDoc;
         }
 
     @ApplicationScoped
     @Produces
-    @Database(provider = "publicationsService", value = DatabaseType.DOCUMENT)
+    @Database(provider = "publicationsDb", value = DatabaseType.DOCUMENT)
     public DocumentCollectionManager getAuthors() {
         return publicationsDoc;
         }
 
     @ApplicationScoped
     @Produces
-    @Database(provider = "romansService", value = DatabaseType.DOCUMENT)
+    @Database(provider = "romanDb", value = DatabaseType.DOCUMENT)
     public DocumentCollectionManager getRomain() {
         return romain;
         }

@@ -45,18 +45,19 @@ public class RepositoryApp {
             God remus = new God("Remus", Arrays.asList("Jupiter", "Water"));
             romanRepository.save(remus);
 
+            System.out.println("Finding a publication by title...");
             System.out.println(publicationRepository.findByTitle("What's New in MicroProfile 1.2"));
+            System.out.println("----------\n");
+
+            System.out.println("Finding an author by author_id...");
             System.out.println(publicationRepository.findByAuthorId(1));
+            System.out.println("----------\n");
+
+            System.out.println("Finding and author by last_name...");
             System.out.println(authorRepository.findByLastName("Redlich"));
+            System.out.println("----------\n");
+
             System.out.println(romanRepository.findByName("Diana"));
-
-            // LOGGER.info("Finding in the Publication repository...\n");
-            // LOGGER.info("Finding by title, What's New in MicroProfile 1.2:\n" + publicationRepository.findByTitle("What's New in MicroProfile 1.2"));
-            // LOGGER.info("Finding by name, Diana:\n" + romanRepository.findByName("Diana"));
-
-            // LOGGER.info("Finding in the Roman service ");
-            // LOGGER.info("Finding by Artemis : " + romansRepository.findByName("Artemis"));
-            // LOGGER.info("Finding by Diana " + romansRepository.findByName("Diana"));
             }
         }
 

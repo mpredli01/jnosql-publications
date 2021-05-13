@@ -29,15 +29,15 @@ import jakarta.inject.Inject;
 public class Service {
 
     @Inject
-    @Database(provider = "publicationsService", value = DatabaseType.DOCUMENT)
+    @Database(provider = "publicationsDb", value = DatabaseType.DOCUMENT)
     private PublicationRepository publicationRepository;
 
     @Inject
-    @Database(provider = "publicationsService", value = DatabaseType.DOCUMENT)
+    @Database(provider = "publicationsDb", value = DatabaseType.DOCUMENT)
     private AuthorRepository authorRepository;
 
     @Inject
-    @Database(provider = "romansService", value = DatabaseType.DOCUMENT)
+    @Database(provider = "romanDb", value = DatabaseType.DOCUMENT)
     private RomanRepository romanRepository;
 
     public PublicationRepository getPublicationRepository() {

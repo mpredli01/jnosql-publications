@@ -16,6 +16,7 @@
 package org.redlich.jnosql;
 
 import java.util.List;
+import java.util.stream.Stream;
 
 import jakarta.nosql.mapping.Repository;
 
